@@ -2,7 +2,22 @@
 
 This is a sandbox project to visualize various use-cases in our git workflow
 
-## I. Gold Rules
+## Table of Contents
+1. [Golden Rules](#i-golden-rules)
+2. [Roles](#ii-roles)
+3. [Use Cases](#iii-use-cases)
+    1. [Make a Fix for Production](#a-make-a-fix-for-production-code)
+        1. [Prepare a Hotfix](#1-prepare-a-hotfix)
+        2. [Finish a Hotfix](#2-finish-a-hotfix)
+    2. [Make a Feature](#b-make-a-feature)
+        1. [Prepare a Feature](#1-prepare-a-feature)
+        2. [Finish a Feature](#2-finish-a-feature)
+    3. [Making a Release](#c-making-a-release)
+        1. [Prepare for a Release](#1-prepare-for-a-release)
+        2. [Finish a Release](#2-finish-the-release)
+        3. [After the Release](#3-after-the-release)
+
+## I. Golden Rules
 
 Thy shall follow these rules, no exception.
 
