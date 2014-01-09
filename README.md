@@ -77,7 +77,7 @@ This stage uses **manual merge**
 For the Maintainer
 
 1. Get both `master`, and `develop`
-2. Perform a manual, `--no-ff` merge from `develop` **into** `master`
+2. Perform a manual, `--no-ff` merge from `master` **into** `develop`
 
 ### B. Make a Feature
 
