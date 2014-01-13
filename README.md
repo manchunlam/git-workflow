@@ -2,6 +2,9 @@
 
 This is a sandbox project to visualize various use-cases in our git workflow
 
+The original proposal is made by John Weathers, and can be found
+[here](git-workflow-proposal.docx).
+
 ## Table of Contents
 1. [Golden Rules](#i-golden-rules)
 2. [Roles](#ii-roles)
